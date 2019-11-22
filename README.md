@@ -1,5 +1,5 @@
 # bootcamp-modulo06
-<h1Desenvolvimento com React Native</h1>
+<h1>Desenvolvimento com React Native</h1>
 
 <p>Essa aplicação teve por objetivo a busca de usuários através da API do GitHub e também os respositórios favoritos de cada usuário adicionado!</p>
 
